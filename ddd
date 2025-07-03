@@ -1,3 +1,3 @@
-return {
-8336768067,
+local ModCheck = {
+    [8336768067] = true,  
 }
